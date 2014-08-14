@@ -21,3 +21,23 @@
     color: #f0f0f0;
     background-color: black;
 }
+
+#al {
+    color: purple;
+}
+
+#co {
+    color: yellow;
+}
+
+#ny {
+    color: teal;
+}
+
+#ak {
+    background: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuPlvrfvESIDQPwOlvQLBO0N0_c1Y4HRghJ1ierLbZX0xm7_6CthbPkGlO");
+    background-size: 50% 50%;
+    background-repeat: repeat;
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+}
